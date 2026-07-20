@@ -18,7 +18,7 @@ const useState_ex2 = () => {
       </h1>
 
     </div>
-  );
-};
+  )
+}
 
 export default useState_ex2;

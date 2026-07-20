@@ -6,7 +6,7 @@ const ListRendering = () => {
     { id: 1, name: "Tom" },
     { id: 2, name: "Jerry" },
     { id: 3, name: "Henry" }
-  ];
+  ]
 
   return (
     <div>
@@ -18,7 +18,7 @@ const ListRendering = () => {
         ))}
       </ul>
     </div>
-  );
-};
+  )
+}
 
 export default ListRendering;

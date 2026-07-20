@@ -17,7 +17,7 @@ const useState_ex1 = () => {
         {title}
       </button>
     </div>
-  );
-};
+  )
+}
 
 export default useState_ex1;
